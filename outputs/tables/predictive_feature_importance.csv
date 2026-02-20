@@ -1,0 +1,11 @@
+feature,importance
+lag1_daily_pnl_usd,0.20869043685523653
+lag1_trades,0.19756309672200945
+lag1_avg_leverage_proxy,0.15069025904529731
+lag1_avg_trade_size_usd,0.13282919031554768
+lag1_total_notional_usd,0.10348380694151431
+lag1_net_long_bias,0.09605764534401995
+value,0.09349888679455262
+sentiment_bucket_Greed,0.010649196975874235
+sentiment_bucket_Neutral,0.003523475763265552
+sentiment_bucket_Fear,0.003014005242682438
