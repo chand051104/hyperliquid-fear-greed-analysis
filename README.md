@@ -7,7 +7,6 @@ This repository analyzes how market sentiment (Fear/Greed) relates to trader beh
 
 ## What is included
 
-- Notebook: `/Users/saichandra/Desktop/assignment/analysis.ipynb`
 - Script: `/Users/saichandra/Desktop/assignment/analyze_hyperliquid_sentiment.py`
 - Write-up: `/Users/saichandra/Desktop/assignment/outputs/summary.md`
 - Charts: `/Users/saichandra/Desktop/assignment/outputs/charts/`
